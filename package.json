@@ -1,0 +1,30 @@
+{
+  "name": "main-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecanoechief/headwinds-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecanoechief/headwinds-discord-bot/issues"
+  },
+  "homepage": "https://github.com/thecanoechief/headwinds-discord-bot#readme",
+  "dependencies": {
+    "@project-serum/anchor": "^0.20.1",
+    "@solana/web3.js": "^1.31.0",
+    "discord.js": "^13.5.1",
+    "got": "^11.8.3",
+    "mongodb": "^4.3.0"
+  },
+  "engines": {
+    "node": ">= 16.13.1"
+  }
+}
